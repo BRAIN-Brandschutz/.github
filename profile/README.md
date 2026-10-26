@@ -1,6 +1,6 @@
 # ⚠️ Warning
 
-These repositories are no longer maintained, as I haven't forked or updated them in a while.
+These repositories are no longer maintained, as I haven't worked on them or updated them in a while.
 
 **Use them at your own risk!**
 
